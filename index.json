@@ -1,0 +1,9 @@
+ {
+      "name": "Aniyomi: pornhat",
+      "pkg": "eu.kanade.tachiyomi.animeextension.all.pornhat",
+      "apk": "aniyomi-all.pornhat-v14.14",
+      "lang": "all",
+      "code": 6,
+      "version": "14.14",
+      "nsfw": 1
+    }

@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "eu.kanade.tachiyomi.animeextension.all.pornhat",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 14,
+      "versionName": "14.14",
+      "outputFile": "aniyomi-all.pornhat-v14.14-release.apk"
+    }
+  ],
+  "elementType": "File"
+}
